@@ -1,5 +1,3 @@
-![Bannière GitHub](https://github.com/Ilyes009/Ilyes009/blob/main/github-header-image.png)
-
 # Maxiiice (Maxice) 🛠️
 
 ## 👋 À propos de moi
